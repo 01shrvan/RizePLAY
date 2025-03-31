@@ -91,7 +91,7 @@ export default function Component() {
 
           <View style={styles.heroSection}>
             <Text style={styles.heroTitle}>Your Soundtrack,{`\n`}Your Rules</Text>
-            <Text style={styles.heroSubtitle}>Unlimited bops. Zero cap.</Text>
+            <Text style={styles.heroSubtitle}>Unlimited bops. Zero cap</Text>
           </View>
 
           <View style={styles.buttonContainer}>
